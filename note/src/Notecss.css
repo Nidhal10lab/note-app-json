@@ -1,0 +1,79 @@
+/* .note{
+    background: rgb(255, 255, 255,0.1);
+    backdrop-filter:blur(5px);
+    box-shadow:inset -6px -4px 2px rgb(255, 255, 255,0.1);
+    border-radius:15px;
+    border:1.5px solid rgb(255, 255, 255,0.326);
+   color:#fff;
+   padding:15px;
+   min-height:140px;
+   display:flex;
+   flex-direction:space-between;
+   word-wrap: break-word;
+} */
+ /* Container for all notes */
+/* .notes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Individual Note Card and Creation Card */
+/* .note {
+  background-color: #fef68a; /* Light yellow background */
+  /* border-radius: 10px;
+  padding: 16px;
+  min-height: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}   */ 
+
+ /* Textarea inside Createnotes */ 
+ /* .note textarea {
+  border: none;
+  resize: none;
+  background: transparent;
+  outline: none;
+  font-size: 1rem;
+  font-family: inherit;
+  width: 100%; */
+/* } */
+/* 
+.note-body {
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  font-size: 1rem;
+} */
+
+/* Footer layout inside notes */
+/* .footer, .note-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+} */
+
+/* Save / Edit / Delete Buttons */
+/* button.save {
+  background-color: #22c55e;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}  */
+
+ /* button.save:hover {
+  background-color: #16a34a;
+}
+
+.span {
+  font-size: 0.85rem;
+  color: #4b5563;
+}  
